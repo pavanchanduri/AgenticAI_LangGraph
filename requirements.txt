@@ -8,3 +8,4 @@ pinecone
 flask
 selenium
 chromedriver-autoinstaller
+langgraph

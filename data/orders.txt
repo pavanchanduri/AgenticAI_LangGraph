@@ -1,0 +1,4 @@
+Order ID: A1001, Customer: Alice, Status: Shipped, Items: Wireless Mouse, Expected Delivery: 2025-09-15
+Order ID: A1002, Customer: Bob, Status: Processing, Items: Bluetooth Headphones, Expected Delivery: 2025-09-18
+Order ID: A1003, Customer: Charlie, Status: Delivered, Items: Coffee Maker, Expected Delivery: 2025-09-10
+Order ID: A1004, Customer: Diana, Status: Cancelled, Items: Running Shoes, Expected Delivery: -

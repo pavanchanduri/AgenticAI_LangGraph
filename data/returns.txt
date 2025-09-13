@@ -1,0 +1,4 @@
+Order ID: A1001, Return Status: Requested, Refund Status: Pending
+Order ID: A1002, Return Status: Not Requested, Refund Status: N/A
+Order ID: A1003, Return Status: Approved, Refund Status: Completed
+Order ID: A1004, Return Status: Not Eligible, Refund Status: N/A

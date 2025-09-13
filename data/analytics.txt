@@ -1,0 +1,5 @@
+Total Orders: 120
+Total Revenue: $5,000
+Top Product: Wireless Mouse
+Average Delivery Time: 4 days
+Refund Rate: 2%

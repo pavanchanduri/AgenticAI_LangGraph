@@ -1,0 +1,5 @@
+Name: Wireless Mouse, Category: Electronics, Price: $25.99, Description: Ergonomic wireless mouse with USB receiver.
+Name: Bluetooth Headphones, Category: Electronics, Price: $59.99, Description: Noise-cancelling over-ear headphones.
+Name: Coffee Maker, Category: Home Appliances, Price: $89.99, Description: Programmable coffee maker with timer.
+Name: Yoga Mat, Category: Fitness, Price: $19.99, Description: Non-slip yoga mat for all exercises.
+Name: Running Shoes, Category: Footwear, Price: $49.99, Description: Lightweight running shoes for men and women.
