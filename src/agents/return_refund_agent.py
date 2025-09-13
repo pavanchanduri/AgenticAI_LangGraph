@@ -1,4 +1,3 @@
-
 # Return and Refund Agent (RAG-based)
 import os
 from langchain.document_loaders import TextLoader

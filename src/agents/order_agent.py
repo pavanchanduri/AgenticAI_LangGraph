@@ -1,5 +1,3 @@
-
-
 # Order Agent (RAG-based, dynamic API)
 import os
 import requests
